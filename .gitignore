@@ -1,0 +1,8 @@
+.idea/
+env/
+static/
+db.sqlite3
+.env
+logs.log
+media/uploads/
+minio_data
